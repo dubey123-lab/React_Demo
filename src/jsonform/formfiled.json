@@ -1,0 +1,22 @@
+{
+    "fileds" :[
+        {
+            "placeholder" : "Enter User Name..",
+            "name" : "name",
+            "input_type" : "text",
+            "required" : "true"
+        },
+        {
+            "placeholder" : "Enter User Email..",
+            "name" : "email",
+            "input_type" : "emaol",
+            "required" : "true"
+        },
+        {
+            "placeholder" : "Enter Password..",
+            "name" : "password",
+            "input_type" : "password",
+            "required" : "true"
+        }
+    ]
+}
